@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: developing with GPT's
 -->
+- ⚡ Fun fact: developing with GPT's
+
 - 🔭 I’m currently working on: axenix.pro
 - 🔗 My [LinkedIn](https://www.linkedin.com/in/levonosipov/)
 - 💬 My [Telegram](https://t.me/levonosipov)
